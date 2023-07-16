@@ -1,0 +1,182 @@
+2023-07-16 03:08:03,044 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 03:08:10,361 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 03:08:10,613 [INFO ] BaseClasss - Entering Username and Passsword.
+2023-07-16 03:08:10,723 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 03:32:51,774 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 03:32:53,893 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 03:47:01,156 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 03:47:02,910 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 03:52:04,352 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 03:52:08,432 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:16:36,114 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:16:38,879 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:17:36,936 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:17:40,616 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:22:00,935 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:22:03,196 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:26:32,099 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:26:34,166 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:38:15,289 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:38:17,873 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:40:27,700 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:40:30,086 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:46:54,214 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:46:57,128 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:51:24,892 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 04:51:26,871 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 04:51:27,065 [INFO ] BaseClasss - Entering Username and Passsword.
+2023-07-16 04:51:27,132 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 12:50:10,874 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 12:50:12,145 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 12:50:12,417 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 12:50:12,537 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:04:29,082 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 14:04:30,334 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 14:04:30,594 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 14:04:30,683 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:10:21,438 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 14:10:22,677 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 14:10:22,943 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 14:10:23,021 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:11:42,212 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 14:11:43,967 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 14:11:44,234 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 14:11:44,319 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:15:28,515 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 14:15:29,756 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 14:15:30,036 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 14:15:30,126 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:15:33,145 [INFO ] BaseClasss - Search Content
+2023-07-16 14:22:41,645 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 14:22:42,937 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 14:22:43,218 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 14:22:43,346 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 14:22:46,215 [INFO ] BaseClasss - Search Content
+2023-07-16 15:21:51,576 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:21:53,365 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:21:53,539 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:21:53,620 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:21:56,243 [INFO ] BaseClasss - Search Content
+2023-07-16 15:24:27,457 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:24:28,811 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:24:29,094 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:24:29,190 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:24:33,811 [INFO ] BaseClasss - Search Content
+2023-07-16 15:24:33,901 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 15:35:52,430 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:35:53,744 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:35:53,998 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:35:54,102 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:35:58,486 [INFO ] BaseClasss - Search Content
+2023-07-16 15:37:54,385 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:37:56,103 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:37:56,240 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:37:56,361 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:38:00,946 [INFO ] BaseClasss - Search Content
+2023-07-16 15:50:07,041 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:50:08,510 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:50:08,788 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:50:08,885 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:51:41,876 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:51:43,187 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:51:43,444 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:51:43,524 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:51:47,804 [INFO ] BaseClasss - Search Content
+2023-07-16 15:53:10,553 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 15:53:11,800 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 15:53:12,065 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 15:53:12,147 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 15:53:16,393 [INFO ] BaseClasss - Search Content
+2023-07-16 15:53:26,515 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 16:04:09,669 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 16:04:10,952 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 16:04:11,236 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 16:04:11,341 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 16:04:15,617 [INFO ] BaseClasss - Search Content
+2023-07-16 16:04:25,698 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 16:08:43,035 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 16:08:44,281 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 16:08:44,542 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 16:08:44,651 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 16:08:49,537 [INFO ] BaseClasss - Search Content
+2023-07-16 16:08:59,600 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 16:15:20,642 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 16:15:22,316 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 16:15:22,454 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 16:15:22,553 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 16:15:26,917 [INFO ] BaseClasss - Search Content
+2023-07-16 16:15:36,986 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 16:59:21,533 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 16:59:23,306 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 16:59:23,504 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 16:59:23,599 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 16:59:27,923 [INFO ] BaseClasss - Search Content
+2023-07-16 16:59:28,033 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 16:59:28,033 [INFO ] BaseClasss - My Book
+2023-07-16 16:59:38,091 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:03:53,081 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:03:54,369 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:03:54,637 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:03:54,719 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:03:59,235 [INFO ] BaseClasss - Search Content
+2023-07-16 17:03:59,338 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 17:03:59,338 [INFO ] BaseClasss - My Book
+2023-07-16 17:04:09,420 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:27:21,731 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:27:23,162 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:27:23,451 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:27:23,558 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:27:28,450 [INFO ] BaseClasss - Search Content
+2023-07-16 17:27:38,491 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:32:48,961 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:32:50,434 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:32:50,605 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:32:50,853 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:32:56,591 [INFO ] BaseClasss - Search Content
+2023-07-16 17:32:56,676 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 17:32:56,676 [INFO ] BaseClasss - My Book
+2023-07-16 17:33:00,110 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:33:00,165 [INFO ] BaseClasss - My Books removed Successfully
+2023-07-16 17:34:39,202 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:34:47,081 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:34:47,235 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:34:47,301 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:34:53,760 [INFO ] BaseClasss - Search Content
+2023-07-16 17:35:03,829 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:35:57,187 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:35:58,737 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:35:59,018 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:35:59,129 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:36:11,119 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:38:06,963 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:38:08,523 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:38:08,670 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:38:08,776 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:38:31,249 [INFO ] BaseClasss - Search Content
+2023-07-16 17:38:31,319 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 17:38:31,320 [INFO ] BaseClasss - My Book
+2023-07-16 17:38:32,881 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:48:19,811 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:48:22,107 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:48:22,264 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:48:22,373 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:48:52,871 [INFO ] BaseClasss - Search Content
+2023-07-16 17:49:30,228 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:49:46,630 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:49:48,022 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:49:48,293 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:49:48,405 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:50:14,070 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:50:25,561 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:50:27,455 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:50:27,600 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:50:27,659 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:51:28,511 [INFO ] BaseClasss - Remove from My Book
+2023-07-16 17:51:46,588 [INFO ] BaseClasss - Moving to SigninPage
+2023-07-16 17:51:48,456 [INFO ] BaseClasss - Clicking on SigninButton
+2023-07-16 17:51:48,668 [INFO ] BaseClasss - Entering Username and Password.
+2023-07-16 17:51:48,759 [INFO ] BaseClasss - Signin Page Successful
+2023-07-16 17:52:17,278 [INFO ] BaseClasss - Search Content
+2023-07-16 17:52:17,341 [INFO ] BaseClasss - SearchContent Successful
+2023-07-16 17:52:17,342 [INFO ] BaseClasss - My Book
+2023-07-16 17:52:18,964 [INFO ] BaseClasss - Remove from My Book
